@@ -1,0 +1,3 @@
+C:\Users\bossw\Documents\mc\all\clickers\Source\Night Client\Spotify\obj\Debug\Spotify.csproj.AssemblyReference.cache
+C:\Users\bossw\Documents\mc\all\clickers\Source\Night Client\Spotify\obj\Debug\Spotify.csproj.SuggestedBindingRedirects.cache
+C:\Users\bossw\Documents\mc\all\clickers\Source\Night Client\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
